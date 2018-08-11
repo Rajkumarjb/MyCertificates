@@ -1,6 +1,7 @@
-### MyCertificates for AI / ML / Deep Learning
 
-## Coursera 
+## Neural Networks and Deep Learning 
+![coursera](https://user-images.githubusercontent.com/25348003/43993589-b8fa8fbe-9d5d-11e8-8460-ac57af0fca8c.jpg)
+
 [Coursera.pdf](https://github.com/Rajkumarjb/MyCertificates/files/2280360/Coursera.pdf)
 
 ## Google Data Engineer and Cloud Architect
