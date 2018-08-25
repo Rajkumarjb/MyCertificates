@@ -7,7 +7,7 @@
 
 ## Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-![coursera certificate_2](https://user-images.githubusercontent.com/25348003/44623129-77e6ad80-a895-11e8-8c88-27a788d49429.png)
+![SCR4](https://user-images.githubusercontent.com/25348003/44623191-8c777580-a896-11e8-80bf-cb94140665d1.png)
 
 ## Google Data Engineer and Cloud Architect
 ![gcp_datascience_cloudarchitect](https://user-images.githubusercontent.com/25348003/43993363-27b749c8-9d5a-11e8-8e94-072ea1da4269.jpg)
