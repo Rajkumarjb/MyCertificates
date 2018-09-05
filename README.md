@@ -9,6 +9,9 @@
 
 ![SCR4](https://user-images.githubusercontent.com/25348003/44623191-8c777580-a896-11e8-80bf-cb94140665d1.png)
 
+## Structuring Machine Learning Projects 
+![scr3](https://user-images.githubusercontent.com/25348003/45066840-41c3dd80-b08e-11e8-8ac0-a0482f6c4b23.png)
+
 ## Google Data Engineer and Cloud Architect
 ![gcp_datascience_cloudarchitect](https://user-images.githubusercontent.com/25348003/43993363-27b749c8-9d5a-11e8-8e94-072ea1da4269.jpg)
 
