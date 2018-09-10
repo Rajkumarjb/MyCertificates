@@ -13,7 +13,7 @@
 
 ## Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-![scr2](https://user-images.githubusercontent.com/25348003/45067156-d24eed80-b08f-11e8-9b68-dd81411899e6.png)
+![Hyperparameter](https://user-images.githubusercontent.com/25348003/45330418-6529d500-b533-11e8-8804-45fc3422b5de.png)
 
 ## Structuring Machine Learning Projects 
 ![scr3](https://user-images.githubusercontent.com/25348003/45066840-41c3dd80-b08e-11e8-8ac0-a0482f6c4b23.png)
