@@ -16,7 +16,7 @@
 ![Hyperparameter](https://user-images.githubusercontent.com/25348003/45330418-6529d500-b533-11e8-8804-45fc3422b5de.png)
 
 ## Structuring Machine Learning Projects 
-![scr3](https://user-images.githubusercontent.com/25348003/45066840-41c3dd80-b08e-11e8-8ac0-a0482f6c4b23.png)
+![SML](https://user-images.githubusercontent.com/25348003/45330530-e2554a00-b533-11e8-8acd-8ca479d73bfe.png)
 
 ## Google Data Engineer and Cloud Architect
 ![gcp_datascience_cloudarchitect](https://user-images.githubusercontent.com/25348003/43993363-27b749c8-9d5a-11e8-8e94-072ea1da4269.jpg)
