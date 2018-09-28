@@ -3,7 +3,6 @@
 
 ## Deep Learning
 
-![scr_dl3](https://user-images.githubusercontent.com/25348003/46184284-e5c23280-c2a2-11e8-9045-a35ea52c1fb4.png)
 
 
 
