@@ -3,7 +3,7 @@
 
 ## Deep Learning
 
-![scrdl4](src= https://user-images.githubusercontent.com/25348003/46184527-050d8f80-c2a4-11e8-9f65-de72dbbfa0f3.png)
+![scrdl4](https://user-images.githubusercontent.com/25348003/46184527-050d8f80-c2a4-11e8-9f65-de72dbbfa0f3.png)
 
 
 ## Neural Networks and Deep Learning 
