@@ -1,5 +1,12 @@
 ## My Certificates for AI / ML / Deep Learning
 ----------------------------------------------
+
+## Deep Learning
+
+[scr_dl3](https://user-images.githubusercontent.com/25348003/46184284-e5c23280-c2a2-11e8-9045-a35ea52c1fb4.png
+
+
+
 ## Neural Networks and Deep Learning 
 ![coursera](https://user-images.githubusercontent.com/25348003/43993589-b8fa8fbe-9d5d-11e8-8460-ac57af0fca8c.jpg)
 
