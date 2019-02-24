@@ -1,4 +1,4 @@
-## My Certificates for AI / ML / Deep Learning
+## My Certificates on AI / ML / Deep Learning
 ----------------------------------------------
 
 ## Deep Learning
